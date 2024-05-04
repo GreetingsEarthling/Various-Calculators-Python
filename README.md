@@ -16,3 +16,4 @@ My vision for this project:
 
 Needless to say, I am very excited about this project as I know I will be using it often!
 
+P.S. The program does have a simple login screen! The username is "admin" and the password is "password". My reason for this is because I want to create a login system that would recognize a users previous calculations and create a folder within their computer so they can access them for further use!
